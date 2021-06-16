@@ -7,11 +7,11 @@ By donating an account, you agree to these terms:
 3) If you donate one account instead of the other on accident, you can contact me at BowserLover#0001.
 
 # Examples
-NFA/SFA Account Format: email@yourprovi.der:password
-FA Account Format: email@yourprovi.der:password:sq1:sq2:sq3
-Legacy Account Format: username:password
+1) NFA/SFA Account Format: email@yourprovi.der:password
+2) FA Account Format: email@yourprovi.der:password:sq1:sq2:sq3
+3) Legacy Account Format: username:password
 
 # Other Examples
-funkyfish1@gmail.com:iLOVEfish69
-fishlove69@outlook.com:fishlover69420:i:love:fish
-fishyfishy4:fish123456
+1) funkyfish1@gmail.com:iLOVEfish69
+2) fishlove69@outlook.com:fishlover69420:i:love:fish
+3) fishyfishy4:fish123456
