@@ -15,5 +15,3 @@ By donating an account, you agree to these terms:
 1) funkyfish1@gmail.com:iLOVEfish69
 2) fishlove69@outlook.com:fishlover69420:i:love:fish
 3) fishyfishy4:fish123456
-
-test
